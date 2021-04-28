@@ -1,0 +1,15 @@
+/Users/scallejas/NetCore/Clase02/bin/Debug/net5.0/Clase02.deps.json
+/Users/scallejas/NetCore/Clase02/bin/Debug/net5.0/Clase02.runtimeconfig.json
+/Users/scallejas/NetCore/Clase02/bin/Debug/net5.0/Clase02.runtimeconfig.dev.json
+/Users/scallejas/NetCore/Clase02/bin/Debug/net5.0/Clase02.dll
+/Users/scallejas/NetCore/Clase02/bin/Debug/net5.0/ref/Clase02.dll
+/Users/scallejas/NetCore/Clase02/bin/Debug/net5.0/Clase02.pdb
+/Users/scallejas/NetCore/Clase02/obj/Debug/net5.0/Clase02.csprojAssemblyReference.cache
+/Users/scallejas/NetCore/Clase02/obj/Debug/net5.0/Clase02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/scallejas/NetCore/Clase02/obj/Debug/net5.0/Clase02.AssemblyInfoInputs.cache
+/Users/scallejas/NetCore/Clase02/obj/Debug/net5.0/Clase02.AssemblyInfo.cs
+/Users/scallejas/NetCore/Clase02/obj/Debug/net5.0/Clase02.csproj.CoreCompileInputs.cache
+/Users/scallejas/NetCore/Clase02/obj/Debug/net5.0/Clase02.dll
+/Users/scallejas/NetCore/Clase02/obj/Debug/net5.0/ref/Clase02.dll
+/Users/scallejas/NetCore/Clase02/obj/Debug/net5.0/Clase02.pdb
+/Users/scallejas/NetCore/Clase02/obj/Debug/net5.0/Clase02.genruntimeconfig.cache
